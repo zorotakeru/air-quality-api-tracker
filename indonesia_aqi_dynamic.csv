@@ -294567,3 +294567,88 @@ Timestamp,Station,AQI,Lat,Lon
 2026-09-05 23:34:04,"Tawau, Sabah, Malaysia",82,4.249786,117.935864
 2026-09-05 23:34:04,"Indera Mahkota, Kuantan, Pahang, Malaysia",83,3.819217,103.29655
 2026-09-05 23:34:04,"Perai, Pulau Pinang, Malaysia",40,5.329358,100.443475
+2026-09-06 02:56:06,"Kototabang, Indonesia",163,-0.251,100.382
+2026-09-06 02:56:06,"East, Singapore",142,1.3645924,103.9477547
+2026-09-06 02:56:06,"West, Singapore",119,1.3880078,103.698064
+2026-09-06 02:56:06,"Keningau, Sabah, Malaysia",99,5.339317,116.163658
+2026-09-06 02:56:06,"Samalaju, Sarawak, Malaysia",200,3.537059,113.295168
+2026-09-06 02:56:06,"Batam, Indonesia",151,1.124,104.126
+2026-09-06 02:56:06,"Bukit Rambai, Melaka, Malaysia",156,2.258519,102.172683
+2026-09-06 02:56:06,"Indera Mahkota, Kuantan, Pahang, Malaysia",82,3.819217,103.29655
+2026-09-06 02:56:06,"Banjarbaru, Indonesia",325,-3.475,114.856
+2026-09-06 02:56:06,"Kemayoran, Indonesia",139,-6.155,106.846
+2026-09-06 02:56:06,"Bengkulu, Indonesia",143,-3.865,102.312
+2026-09-06 02:56:06,Kuala Lumpur,166,3.139003,101.686855
+2026-09-06 02:56:06,"Besut, Terengganu, Malaysia",79,5.748449,102.515632
+2026-09-06 02:56:06,"Medan, Indonesia",85,3.59,98.85
+2026-09-06 02:56:06,"Sri Aman, Sarawak, Malaysia",215,1.219656,111.464792
+2026-09-06 02:56:06,"Tanjung Malim, Perak, Malaysia",95,3.687758,101.524494
+2026-09-06 02:56:06,"Perai, Pulau Pinang, Malaysia",38,5.329358,100.443475
+2026-09-06 02:56:06,"Maros, Indonesia",128,-4.997,119.57
+2026-09-06 02:56:06,"ILP Miri, Sarawak, Malaysia",182,4.494791,114.043416
+2026-09-06 02:56:06,"Temburong, Brunei",94,4.6204128,115.141484
+2026-09-06 02:56:06,"Paka, Terengganu, Malaysia",107,4.598064,103.434819
+2026-09-06 02:56:06,"Indrapuri, Indonesia",56,5.404,95.475
+2026-09-06 02:56:06,"Malang, Indonesia",63,-7.9551897,112.6119383
+2026-09-06 02:56:06,"Pesawaran, Indonesia",160,-5.17,105.178
+2026-09-06 02:56:06,"Kuala Selangor, Selangor, Malaysia",154,3.321308,101.256242
+2026-09-06 02:56:06,"Limbang, Sarawak, Malaysia",160,4.758891,115.013667
+2026-09-06 02:56:06,"Pekan Tutong, Brunei",109,4.8140524,114.6608562
+2026-09-06 02:56:06,"Mempawah, Indonesia",478,0.124,110.456
+2026-09-06 02:56:06,"Nilai, Negeri Sembilan, Malaysia",167,2.821692,101.811486
+2026-09-06 02:56:06,"Shah Alam, Selangor, Malaysia",168,3.104717,101.556222
+2026-09-06 02:56:06,"Sleman, Indonesia",79,-7.731,110.354
+2026-09-06 02:56:06,"Kapit, Sarawak, Malaysia",98,2.014498,112.92736
+2026-09-06 02:56:06,"Bintulu, Sarawak, Malaysia",198,3.177084,113.041091
+2026-09-06 02:56:06,"Petaling Jaya, Selangor, Malaysia",157,3.133169,101.608011
+2026-09-06 02:56:06,"Cheras,Kuala Lumpur, Wilayah Persekutuan, Malaysia",163,3.106236,101.717917
+2026-09-06 02:56:06,"Semarang, Indonesia",54,-6.985,110.381
+2026-09-06 02:56:06,"Mukah, Sarawak, Malaysia",194,2.883238,112.019742
+2026-09-06 02:56:06,"Jerantut, Pahang, Malaysia",168,3.94836,102.366632
+2026-09-06 02:56:06,"Batu Pahat, Johor, Malaysia",133,1.919323,102.866618
+2026-09-06 02:56:06,"Rompin, Pahang, Malaysia",79,2.926645,103.419198
+2026-09-06 02:56:06,"Balok Baru, Kuantan, Pahang, Malaysia",89,3.960644,103.382158
+2026-09-06 02:56:06,Ipoh,113,4.61175,101.113506
+2026-09-06 02:56:06,Perai,56,5.384388,100.3896169
+2026-09-06 02:56:06,"Palangka Raya, Indonesia",462,-2.22611,113.945
+2026-09-06 02:56:06,"Kotabaru, Indonesia",68,-3.3,116.17
+2026-09-06 02:56:06,"Sarikei, Sarawak, Malaysia",188,2.132809,111.52287
+2026-09-06 02:56:06,"Labuan, Wilayah Persekutuan, Malaysia",161,5.298107,115.232106
+2026-09-06 02:56:06,"Segamat, Johor, Malaysia",160,2.493914,102.862694
+2026-09-06 02:56:06,"Seri Manjung, Perak, Malaysia",55,4.200344,100.663358
+2026-09-06 02:56:06,"Sorong, Indonesia",58,-0.8634105,131.2544805
+2026-09-06 02:56:06,"Supadio, Indonesia",572,-0.14,109.45
+2026-09-06 02:56:06,"Tanjung Harapan, Indonesia",116,2.83,117.36
+2026-09-06 02:56:06,"Talang Betutu Palembang, Indonesia",178,-2.94,104.7
+2026-09-06 02:56:06,"Kimanis, Sabah, Malaysia",154,5.538225,115.850556
+2026-09-06 02:56:06,Miri,172,4.333131,113.99486
+2026-09-06 02:56:06,"Sandakan, Sabah, Malaysia",76,5.864467,118.091089
+2026-09-06 02:56:06,"Pengerang, Johor, Malaysia",81,1.389489,104.149586
+2026-09-06 02:56:06,"Samarinda, Indonesia",90,-0.4825,117.1563
+2026-09-06 02:56:06,"Jambi, Indonesia",225,-1.6318964,103.6414547
+2026-09-06 02:56:06,"Pangkalanbun, Indonesia",247,-2.676583,111.626448
+2026-09-06 02:56:06,"Pekanbaru, Indonesia",203,0.46667,101.4666
+2026-09-06 02:56:06,"Temerloh, Pahang, Malaysia",164,3.471603,102.376406
+2026-09-06 02:56:06,"Tanah Merah, Kelantan, Malaysia",38,5.811172,102.1345
+2026-09-06 02:56:06,"Minden, Pulau Pinang, Malaysia",38,5.356211,100.30792
+2026-09-06 02:56:06,"Brunei Muara, Brunei",112,4.9311206,114.9516869
+2026-09-06 02:56:06,"Sintang, Indonesia",337,0.066,111.477
+2026-09-06 02:56:06,"Central, Singapore",117,1.3666667,103.8
+2026-09-06 02:56:06,"Pasir Gudang, Johor, Malaysia",89,1.470122,103.893456
+2026-09-06 02:56:06,"Kemaman, Terengganu, Malaysia",95,4.262121,103.425778
+2026-09-06 02:56:06,"Jalan Tasek, Ipoh, Perak, Malaysia",65,4.629444,101.11665
+2026-09-06 02:56:06,"Bakar Arang, Sg. Petani, Kedah, Malaysia",53,5.629631,100.467771
+2026-09-06 02:56:06,"Kota Kinabalu, Sabah, Malaysia",161,5.89372,116.04327
+2026-09-06 02:56:06,"Port Dickson, Negeri Sembilan, Malaysia",152,2.441383,101.866858
+2026-09-06 02:56:06,"Banting, Selangor, Malaysia",157,2.816689,101.623158
+2026-09-06 02:56:06,"Betong, Thailand (ต.เบตง อ.เบตง จ.ยะลา)",41,5.763873,101.067903
+2026-09-06 02:56:06,"Kg. Air Putih, Taiping, Perak, Malaysia",54,4.89885,100.679106
+2026-09-06 02:56:06,"Tawau, Sabah, Malaysia",85,4.249786,117.935864
+2026-09-06 02:56:06,"Kuala Belait, Brunei",128,4.5831986,114.2212174
+2026-09-06 02:56:06,"Seremban, Negeri Sembilan, Malaysia",166,2.723381,101.968497
+2026-09-06 02:56:06,"Kuching, Sarawak, Malaysia",223,1.562229,110.388958
+2026-09-06 02:56:06,"Kuala Terengganu, Terengganu, Malaysia",80,5.308094,103.120392
+2026-09-06 02:56:06,"Tangkak, Johor, Malaysia",152,2.294794,102.571595
+2026-09-06 02:56:06,"Lore Lindu, Indonesia",64,-1.5190466,120.18524658953586
+2026-09-06 02:56:06,"Sibu, Sarawak, Malaysia",181,2.314408,111.831916
+2026-09-06 02:56:06,"Kluang, Johor, Malaysia",148,2.037882,103.312063
